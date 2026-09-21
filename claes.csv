@@ -1,0 +1,28 @@
+Hours_studied,Attendance,Sleep_hours,Education_Level,Study_method,Passed
+1,95,9,Pre-K,Active Recall,Yes
+1.5,90,8,Pre-K,The Feynman Technique,Yes
+0.5,70,5,Pre-K,The Feynman Technique,No
+1,60,5,Pre-K,Spaced Repetition,No
+2,85,7,Pre-K,Active Recall,Yes
+1.5,80,6,Pre-K,Spaced Repetition,Yes
+
+2,90,8,Elementary,Active Recall,Yes
+1,65,5,Elementary,Spaced Repetition,No
+3,85,7,Elementary,The Feynman Technique,Yes
+1.5,70,5,Elementary,Spaced Repetition,No
+4,95,8,Elementary,Active Recall,Yes
+
+2,85,5,Middle School,Active Recall,No
+3,90,8,Middle School,Active Recall,Yes
+1.5,65,5,Middle School,Spaced Repetition,No
+4,88,7,Middle School,The Feynman Technique,Yes
+
+1,60,5,High School,Spaced Repetition,No
+3,85,7,High School,Active Recall,Yes
+1.5,70,5,High School,The Feynman Technique,No
+5,95,8,High School,Active Recall,Yes
+
+1,55,5,University,Spaced Repetition,No
+2,70,5,University,Active Recall,No
+4,85,7,University,The Feynman Technique,Yes
+6,95,8,University,Active Recall,Yes
